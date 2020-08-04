@@ -11,3 +11,6 @@ a{
     color: rgb(228, 228, 228);
     flex: 1;
 }
+body{
+    color: rgba(0, 0, 0, 0.733);
+}
