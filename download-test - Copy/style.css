@@ -1,16 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 .cusor{
-    width: 4rem;
-    height: 4rem;
+    width: 3rem;
+    height: 3rem;
     border: 2px solid black;
     border-radius: 50%;
     position: absolute;
 }
 
 .nav-link,
-a{
+nav{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    min-width: 10vh;
+    align-items: center;
     color: rgb(228, 228, 228);
-    flex: 1;
+    flex: 0.9;
+    margin: auto;
+
+}
+.nav-link,
+h1{
+    flex: 0.97;
 }
 body{
-    color: rgb(0, 0, 0);
+    background-color: black;
+    font-family: "Popnis", sans-serif;
+}
+
+a{
+    color: rgb(228, 228, 228);
 }
