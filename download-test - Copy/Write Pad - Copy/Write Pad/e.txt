@@ -1,0 +1,21 @@
+
+
+Version:	3.12
+CmdLine:	C:\Users\Farhad\Desktop\Write Pad\Write_Pad.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Farhad\Desktop\Write Pad\.
+Java min ver:	1.004.000
+Java max ver:	
+Bundled JRE:	jre
+Check launcher:	C:\Users\Farhad\Desktop\Write Pad\jre\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\14.0.2
+Check launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe (OK)
+Match:		1.014.000_002
+Runtime used:	1.014.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-14.0.2\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Farhad\Desktop\Write Pad\Write_Pad.exe"
+Args length:	54/32768 chars
+Exit code:	0
