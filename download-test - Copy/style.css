@@ -5,11 +5,12 @@
 }
 
 .cusor{
-    width: 3rem;
-    height: 3rem;
-    border: 2px solid black;
+    width: 9rem;
+    height: 9rem;
+    border: 2px solid rgb(255, 255, 255);
     border-radius: 50%;
     position: absolute;
+    transform: translate(-50%, -50%);
 }
 
 .nav-link,
@@ -29,7 +30,7 @@ h1{
     flex: 0.97;
 }
 body{
-    background-color: black;
+    background-color: rgb(34, 31, 31);
     font-family: "Popnis", sans-serif;
 }
 
