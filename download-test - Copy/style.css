@@ -1,0 +1,12 @@
+.cusor{
+    width: 4rem;
+    height: 4rem;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.navlink, a{
+    color: white;
+    
+}
