@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-.cusor{
+.mouse{
     width: 9rem;
     height: 9rem;
     border: 2px solid rgb(255, 255, 255);
